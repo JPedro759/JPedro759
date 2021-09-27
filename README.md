@@ -16,12 +16,10 @@
  <img align="center" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-line.svg" />
  <img align="center" height="65" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" />
  <img align="center" height="90" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
- <img align="right" height="300" width="400" src="https://c.tenor.com/7Ew5QlKXcB0AAAAC/silver-the-hedgehog-psychic.gif"/>
 </div>
 
- 
-
 ## As IDEs que eu utilizo nos meus projetos:
+
 <div>
   <img align="center" height="100" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" />
   <img align="center" height="200" width="200" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain-wordmark.svg" />
