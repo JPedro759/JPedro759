@@ -1,4 +1,4 @@
-# Olá, eu me chamo João Pedro! 
+# Olá, eu me chamo João Pedro, tenho 18 anos e sou apaixonado por programação! 
 
 - 🌱 Atualmente, estou estudando Front-end (HTML, CSS e JavaScript), Linguagem C, PHP e CRUD (Create, Read, Update, Delete).
 
