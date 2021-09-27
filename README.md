@@ -1,4 +1,4 @@
-## Olá, eu me chamo João Pedro! 
+# Olá, eu me chamo João Pedro! 
 
 - 🌱 Atualmente, estou estudando Front-end (HTML, CSS e JavaScript), Linguagem C, PHP e CRUD (Create, Read, Update, Delete).
 
@@ -16,10 +16,10 @@
  <img align="center" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-line.svg" />
  <img align="center" height="65" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" />
  <img align="center" height="90" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
+ <img align="right" src="https://i.gifer.com/JLlQ.gif"/>
 </div>
 
 ## As IDEs que eu utilizo nos meus projetos:
-  
 <div>
   <img align="center" height="100" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" />
   <img align="center" height="200" width="200" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain-wordmark.svg" />
