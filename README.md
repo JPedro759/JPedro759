@@ -1,6 +1,6 @@
 # Olá! Eu me chamo João Pedro, tenho 18 anos e sou apaixonado por programação! 😎🤩🖥️
 
-- 🌱 Atualmente, estou estudando Front-end (HTML, CSS e JavaScript). Porém, tenho conhecimento em Linguagem C e C#, PHP e CRUD (Create, Read, Update, Delete).
+- 🌱 Atualmente, estou estudando Front-end (HTML, CSS e JavaScript). Porém, tenho conhecimento em Linguagem C#, PHP e CRUD (Create, Read, Update, Delete).
 
 <div>
   <a href="https://github.com/JPedro759">
