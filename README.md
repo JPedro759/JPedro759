@@ -19,9 +19,3 @@
  <img align="center" height="120" width="120" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
 </div>
   
-## As IDEs que eu utilizo nos meus projetos:
-
-<div>
-  <img align="center" height="110" width="110" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" />
-  <img align="center" height="200" width="250" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain-wordmark.svg" />
-</div>
