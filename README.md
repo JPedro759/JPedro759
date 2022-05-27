@@ -1,8 +1,5 @@
 # Olá! Eu me chamo João Pedro, tenho 18 anos e sou apaixonado por programação! 😎🤩🖥️
 
-- 🌱 Sou formado em técnico de Análise e Desenvolvimento de Sistemas na Etec Doutora Ruth Cardoso. Sei programar em HTML, CSS, JavaScript e PHP. Também aprendi a usar o MySQL e fazer sistemas se conectarem com o banco de dados. No momento, estou cursando um tecnólogo de Análise e Desenvolvimento de Sistemas na Fatec Baixada Santista Rubens Lara.
-
-- Recentemente, estou estudando Typescript, Node.js, Express.js e MongoDB para me tornar um Desenvolvedor Full Stack JS. 
 <br>
 <div>
   <a href="https://github.com/JPedro759">
