@@ -1,4 +1,4 @@
-# Olá! Eu me chamo João Pedro, tenho 18 anos e sou apaixonado por programação! 😎🤩🖥️
+# Olá! Eu me chamo João Pedro, tenho 19 anos e sou apaixonado por programação! 😎🤩🖥️
 
 <br>
 <div>
@@ -16,5 +16,11 @@
  <img align="center" height="55" width="65" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
  <img align="center" height="100" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" />
  <img align="center" height="70" width="85" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" />
+</div>
+  
+<div> 
+ 
+  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+ 
 </div>
   
