@@ -1,4 +1,4 @@
-# Olá! Eu me chamo João Pedro e estou estudando para me tornar Desenvolvedor Full Stack JS! 😎🤩🖥️
+# Olá! Eu me chamo João Pedro! 
 
 <br>
 
