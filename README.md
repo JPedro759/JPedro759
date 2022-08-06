@@ -1,5 +1,11 @@
 # Olá! Eu me chamo João Pedro! 
 
+
+<div>
+  <a href="https://www.linkedin.com/in/joão-pedro-melo-65678322b" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://instagram.com/jpedromelo_710" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+</div>
+
 <br>
 
 <div align="center">
@@ -15,7 +21,7 @@
  <img align="center" height="55" width="65" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
  <img align="center" height="55" width="65" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
  <img align="center" height="75" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" />
- <img align="center" height="45" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+ <img align="center" height="45" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
           
 </div>
   
