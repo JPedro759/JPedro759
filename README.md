@@ -15,13 +15,13 @@
   
 <div style="display: inline_block">
  <br>
- <img align="center" height="55" width="60" src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" />
- <img align="center" height="55" width="75" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" />
- <img align="center" height="55" width="75" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
- <img align="center" height="55" width="75" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
- <img align="center" height="60" width="75" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" />
- <img align="center" height="65" width="75" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-plain.svg" />
- <img align="center" height="65" width="75" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" />
+ <img align="center" height="55" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+ <img align="center" height="55" width="75" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+ <img align="center" src="https://img.icons8.com/ios-filled/66/FCCC19/javascript.png"/>
+ <img align="center" src="https://img.icons8.com/fluency/75/null/typescript--v1.png"/>
+ <img align="center" src="https://img.icons8.com/external-tal-revivo-bold-tal-revivo/65/A10000/external-angular-a-typescript-based-open-source-web-application-framework-logo-bold-tal-revivo.png"/>
+ <img align="center" height="70" width="75" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
+ <img align="center" src="https://img.icons8.com/color/75/null/net-framework.png"/>
  <img align="center" height="100" width="120" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
  <img align="center" src="https://img.icons8.com/color/75/null/microsoft-sql-server.png"/>
           
