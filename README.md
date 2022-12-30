@@ -1,6 +1,5 @@
 # Olá! Eu me chamo João Pedro! 
 
-
 <div>
   <a href="https://www.linkedin.com/in/joão-pedro-melo-65678322b" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="https://instagram.com/jpedromelo_710" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
@@ -23,6 +22,8 @@
  <img align="center" height="60" width="75" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" />
  <img align="center" height="65" width="75" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-plain.svg" />
  <img align="center" height="65" width="75" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" />
+ <img align="center" height="100" width="120" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
+ <img align="center" src="https://img.icons8.com/color/75/null/microsoft-sql-server.png"/>
           
 </div>
   
