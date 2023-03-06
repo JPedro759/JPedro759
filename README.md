@@ -22,7 +22,6 @@
  <img align="center" src="https://img.icons8.com/external-tal-revivo-bold-tal-revivo/65/A10000/external-angular-a-typescript-based-open-source-web-application-framework-logo-bold-tal-revivo.png"/>
  <img align="center" height="70" width="75" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
  <img align="center" src="https://img.icons8.com/color/75/null/net-framework.png"/>
- <img align="center" height="100" width="120" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
  <img align="center" src="https://img.icons8.com/color/80/null/microsoft-sql-server.png"/> 
 </div>
   
