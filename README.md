@@ -19,10 +19,9 @@
  <img align="center" height="55" width="75" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
  <img align="center" src="https://img.icons8.com/ios-filled/66/FCCC19/javascript.png"/>
  <img align="center" src="https://img.icons8.com/fluency/75/null/typescript--v1.png"/>
- <img align="center" height="70" width="75" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />    
- <img align="center" height="70" width="75" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
- <img align="center" src="https://img.icons8.com/color/75/null/net-framework.png"/>
- <img align="center" src="https://img.icons8.com/color/80/null/microsoft-sql-server.png"/> 
+ <img align="center" height="70" width="75" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+ <img align="center" height="70" width="75" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+ <img align="center" height="95" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
 </div>
   
 <div> 
