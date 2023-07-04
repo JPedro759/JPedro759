@@ -20,6 +20,7 @@
  <img align="center" src="https://img.icons8.com/ios-filled/66/FCCC19/javascript.png"/>
  <img align="center" src="https://img.icons8.com/fluency/75/null/typescript--v1.png"/>
  <img align="center" height="70" width="75" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+ <img align="center" height="70" width="75" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" />
  <img align="center" height="70" width="75" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
  <img align="center" height="70" width="75" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
 </div>
