@@ -4,8 +4,8 @@
 
 <div align="center">
   <a href="https://github.com/JPedro759">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JPedro759&show_icons=true&theme=dark"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JPedro759&layout=compact&langs_count=7&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JPedro759&show_icons=true&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JPedro759&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 
 # 👓 About me
