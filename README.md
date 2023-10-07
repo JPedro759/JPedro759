@@ -30,7 +30,6 @@
   <img align="center" height="70" width="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
   <img align="center" height="70" width="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
   <img align="center" height="70" width="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
-  <img align="center" height="80" width="80" src="https://img.icons8.com/color/480/microsoft-sql-server.png" alt="microsoft-sql-server"/>     
-  <img align="center" height="80" width="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" />
+  <img align="center" height="80" width="80" src="https://img.icons8.com/color/480/microsoft-sql-server.png" alt="microsoft-sql-server"/>   
   <img align="center" width="96" height="96" src="https://img.icons8.com/nolan/96/c-sharp-logo.png" alt="c-sharp-logo"/>
 </div>
