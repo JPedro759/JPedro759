@@ -26,7 +26,8 @@
  <br>
   <img align="center" height="70" width="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
   <img align="center" height="70" width="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
-  <img align="center" height="90" width="90" alt="angular_gradient" src="https://github.com/JPedro759/JPedro759/assets/77515431/5678c171-4d02-414c-8304-c76c704e4368"> 
+  <img align="center" height="75" width="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+  <img align="center" height="75" width="75" src="https://github.com/JPedro759/JPedro759/assets/77515431/b7e30b03-9618-4641-a151-4301aea94f08" /> 
   <img align="center" height="70" width="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
   <img align="center" height="70" width="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
   <img align="center" height="70" width="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
