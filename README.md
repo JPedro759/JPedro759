@@ -11,7 +11,7 @@
 # 👓 About me
 <div>
   <ul>
-    <li>Front-end Developer</li>
+    <li>Full-Stack Developer</li>
     <li>I graduated as a Systems Development technician from Etec Doutora Ruth Cardoso.</li>
     <li>I'm currently studying Systems Analysis and Development at Fatec Rubens Lara (6th semester).</li>
   </ul>
