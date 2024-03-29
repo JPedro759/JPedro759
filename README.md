@@ -1,3 +1,4 @@
+
 # Hi! My name is João Pedro! 😎👨🏽‍💻
 
 <br>
@@ -29,8 +30,8 @@
   <img align="center" height="70" width="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />     
   <img align="center" height="90" width="90" alt="angular_gradient" src="https://github.com/JPedro759/JPedro759/assets/77515431/5678c171-4d02-414c-8304-c76c704e4368">
   <img align="center" height="70" width="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
-  <img align="center" height="70" width="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dot-net/dot-net-plain-wordmark.svg" />
-  <img align="center" height="70" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" />     
-  <img align="center" height="90" width="110" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
+  <img align="center" height="70" width="70" src="https://github.com/JPedro759/JPedro759/assets/77515431/964eb4c8-6a50-4b07-8423-c7a01f428926" />
+  <img align="center" height="80" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" />     
+  <img align="center" height="90" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
   <img align="center" height="80" width="80" src="https://img.icons8.com/color/480/microsoft-sql-server.png"/>
 </div>
