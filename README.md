@@ -12,9 +12,9 @@
 # 👓 About me
 <div>
   <ul>
-    <li>Full-Stack Developer</li>
+    <li>Full-Stack Web and Mobile Developer</li>
     <li>I graduated as a Systems Development technician from Etec Doutora Ruth Cardoso.</li>
-    <li>I'm currently studying Systems Analysis and Development at Fatec Rubens Lara (6th semester).</li>
+    <li>I recently completed my degree in Systems Analysis and Development at Fatec Rubens Lara, in Santos.</li>
   </ul>
   <br>
   <a href="https://www.linkedin.com/in/joão-pedro-melo-65678322b" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
