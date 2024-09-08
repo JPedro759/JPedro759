@@ -12,7 +12,7 @@
 # 👓 About me
 <div>
   <ul>
-    <li>Software Developer (Web & Mobile)</li>
+    <li>Software Developer (Web & Mobile).</li>
     <li>I graduated as a Systems Development technician from Etec Doutora Ruth Cardoso.</li>
     <li>I recently completed my degree in Systems Analysis and Development at Fatec Rubens Lara, in Santos.</li>
   </ul>
