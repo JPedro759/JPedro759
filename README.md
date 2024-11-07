@@ -26,7 +26,10 @@
 # 🖥️ Main Technologies
 <div style="display: inline_block">
  <br>
-  <img align="center" width="100" height="100" src="https://img.icons8.com/?size=100&id=39856&format=png&color=484c89"/>
+  <img align="center" height="80" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg" />
+  <img align="center" height="70" width="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jetpackcompose/jetpackcompose-original.svg" />
+  <img align="center" height="70" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original.svg" />
+  <img align="center" height="70" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/androidstudio/androidstudio-original.svg" />
   <img align="center" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
   <img align="center" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
   <img align="center" height="90" width="90" src="https://github.com/JPedro759/JPedro759/assets/77515431/5678c171-4d02-414c-8304-c76c704e4368">
