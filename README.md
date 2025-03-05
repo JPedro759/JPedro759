@@ -12,7 +12,7 @@
 # 👓 About me
 <div>
   <ul>
-    <li>Software Developer.</li>
+    <li>Android Developer.</li>
     <li>I graduated as a Systems Development technician from Etec Doutora Ruth Cardoso.</li>
     <li>I recently completed my degree in Systems Analysis and Development at Fatec Rubens Lara, in Santos.</li>
   </ul>
@@ -26,9 +26,6 @@
 # 🖥️ Main Technologies
 <div style="display: inline_block">
  <br>
-  <img align="center" height="90" width="110" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-  <img align="center" height="90" width="110" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
-  <img align="center" height="120" width="120" alt="angular_gradient" src="https://github.com/JPedro759/JPedro759/assets/77515431/5678c171-4d02-414c-8304-c76c704e4368">
   <img align="center" height="85" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/android/android-plain-wordmark.svg" />
   <img align="center" height="90" width="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" />      
   <img align="center" height="100" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg" />
