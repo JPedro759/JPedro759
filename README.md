@@ -26,21 +26,19 @@
 # 🖥️ Main Technologies
 <div style="display: inline_block">
  <br>
-  <img align="center" height="70" width="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-  <img align="center" height="70" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
-  <img align="center" height="95" width="95" alt="angular_gradient" src="https://github.com/JPedro759/JPedro759/assets/77515431/5678c171-4d02-414c-8304-c76c704e4368">
-  <img align="center" height="80" width="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
-  <img align="center" height="80" width="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" />     
-  <img align="center" height="80" width="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg" />
-  <img align="center" height="80" width="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" /> 
+  <img align="center" height="75" width="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/android/android-plain-wordmark.svg" />
+  <img align="center" height="80" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" />      
+  <img align="center" height="90" width="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg" />
+  <img align="center" height="80" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jetpackcompose/jetpackcompose-original.svg" />
+  <img align="center" height="80" width="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original.svg" />  
 </div>
 
 <br>
 
 # Others Technologies
 <div style="display: inline_block">
-  <img align="center" height="80" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" />      
-  <img align="center" height="90" width="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg" />
-  <img align="center" height="80" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jetpackcompose/jetpackcompose-original.svg" />
-  <img align="center" height="80" width="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original.svg" /> 
+  <img align="center" height="70" width="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+  <img align="center" height="70" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
+  <img align="center" height="95" width="95" alt="angular_gradient" src="https://github.com/JPedro759/JPedro759/assets/77515431/5678c171-4d02-414c-8304-c76c704e4368">
+  <img align="center" height="80" width="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" />
 </div>
