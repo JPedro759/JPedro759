@@ -1,5 +1,5 @@
 
-# Hi! My name is João Pedro! 😎👨🏽‍💻
+# Olá! Me chamo João Pedro! 😎👨🏽‍💻
 
 <br>
 
@@ -9,12 +9,12 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JPedro759&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 
-# 👓 About me
+# 👓 Sobre mim
 <div>
   <ul>
-    <li>Software Developer.</li>
-    <li>I graduated as a Systems Development technician from Etec Doutora Ruth Cardoso.</li>
-    <li>I recently completed my degree in Systems Analysis and Development at Fatec Rubens Lara, in Santos.</li>
+    <li>Desenvolvedor de Software com 1+ ano de experiência em Desenvolvimento Mobile (Android).</li>
+    <li>Formado como técnico em Desenvolvimento de Sistemas pela Etec Doutora Ruth Cardoso.</li>
+    <li>Graduado em Análise e Desenvolvimento de Sistemas pela Fatec Baixada Santista Rubens Lara.</li>
   </ul>
   <br>
   <a href="https://www.linkedin.com/in/joão-pedro-melo-65678322b" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
@@ -23,14 +23,5 @@
 
 <br>
 
-# 🖥️ Technologies
-<div style="display: inline_block">
- <br>
-  <img align="center" height="75" width="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/android/android-plain-wordmark.svg" />
-  <img align="center" height="80" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" />
-  <img align="center" height="90" width="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg" />
-  <img align="center" height="80" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jetpackcompose/jetpackcompose-original.svg" />
-  <img align="center" height="80" width="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original.svg" />      
-  <img align="center" height="80" width="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" />
-  <img align="center" height="70" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
-</div>
+# 🖥️ Tecnologias
+[![My Skills](https://skillicons.dev/icons?i=js,ts,kotlin,java,androidstudio,firebase,mysql,git)](https://skillicons.dev)
