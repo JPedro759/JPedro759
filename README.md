@@ -24,4 +24,4 @@
 <br>
 
 # 🖥️ Tecnologias
-[![My Skills](https://skillicons.dev/icons?i=js,ts,kotlin,java,androidstudio,firebase,mysql,git)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,kotlin,java,rust,androidstudio,firebase,mysql,git)](https://skillicons.dev)
