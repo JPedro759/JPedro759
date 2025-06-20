@@ -12,7 +12,7 @@
 # 👓 Sobre mim
 <div>
   <ul>
-    <li>Desenvolvedor de Software com experiência em Desenvolvimento Mobile (Android & iOS) e Desenvolvimento Web.</li>
+    <li>Desenvolvedor de Software com experiência em Desenvolvimento Mobile (Android & iOS).</li>
     <li>Formado como técnico em Desenvolvimento de Sistemas pela Etec Doutora Ruth Cardoso.</li>
     <li>Graduado em Análise e Desenvolvimento de Sistemas pela Fatec Baixada Santista Rubens Lara.</li>
   </ul>
