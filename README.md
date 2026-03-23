@@ -12,7 +12,7 @@
 # 👓 Sobre mim
 <div>
   <ul>
-    <li>Desenvolvedor de Software com experiência em Desenvolvimento Mobile (Android & iOS).</li>
+    <li>Desenvolvedor de Software com experiência em Desenvolvimento Mobile (Android & iOS) e em Desenvolvimento Web.</li>
     <li>Formado como técnico em Desenvolvimento de Sistemas pela Etec Doutora Ruth Cardoso.</li>
     <li>Graduado em Análise e Desenvolvimento de Sistemas pela Fatec Baixada Santista Rubens Lara.</li>
   </ul>
@@ -24,4 +24,4 @@
 <br>
 
 # 🖥️ Tecnologias
-[![My Skills](https://skillicons.dev/icons?i=js,ts,angular,next,androidstudio,kotlin,java,swift,rust,mysql,git)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,angular,next,androidstudio,kotlin,java,spring,swift,rust,mysql,git)](https://skillicons.dev)
