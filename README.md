@@ -6,7 +6,7 @@
 <div align="center">
   <a href="https://github.com/JPedro759">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JPedro759&show_icons=true&theme=tokyonight"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JPedro759&layout=compact&langs_count=8&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JPedro759&layout=compact&langs_count=10&theme=tokyonight"/>
 </div>
 
 # 👓 Sobre mim
@@ -24,4 +24,4 @@
 <br>
 
 # 🖥️ Tecnologias
-[![My Skills](https://skillicons.dev/icons?i=js,ts,php,angular,next,kotlin,java,swift,rust,mysql,git)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,php,angular,next,kotlin,java,swift,mysql,git)](https://skillicons.dev)
